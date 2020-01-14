@@ -51,7 +51,6 @@ data = {
         'peli 46': 1,
         'peli 47': 5,
         'peli 48 asdfasd fasd asdf asdf asdfad asdf asdf': 7
-
         }
 
 
